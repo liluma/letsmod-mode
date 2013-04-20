@@ -1,0 +1,22 @@
+[
+{
+	"modid" : "LsM",
+	"name" : "Let's Mod",
+	"description" : "The official Let's Mod mod, learn modding with pahimar",
+	"version" : "0.0.1",
+	"url" : "www.github.com/liluma",
+	"updateUrl" : "",
+	"authorList" : [
+		"liluma"
+	],
+	"credits" : "",
+	"logoFile" : "",
+	"screenshots" : [
+	
+	],
+	"parent" : "",
+	"dependencies" : [
+	
+	]
+}
+]
